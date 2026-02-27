@@ -845,4 +845,3 @@ v0.2.5 — 2026-02-27
 • Section 14: Fixed risk-tier table logic (Tier C target) and added workflow-level tier note + examples.
 • Section 15: Added roles/responsibilities evidence item for audit readiness.
 
-<img width="468" height="647" alt="image" src="https://github.com/user-attachments/assets/8c95a680-2e88-4814-890a-2e64afa4c774" />
