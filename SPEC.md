@@ -9,8 +9,7 @@ Notice
 
 This document proposes baseline control objectives and evidence expectations for AI execution integrity in systems where decisions or actions may require auditability, defensibility, or long-term traceability. It is implementation-agnostic and intended for public discussion. It does not constitute legal advice or regulatory guidance.
 
-This is a living draft. Comments, issues, and pull requests are welcome at:
-[<GITHUB_REPO_URL> (e.g., github.com//aief)](https://github.com/artnames/AIEF/)
+This is a living draft. Comments, issues, and pull requests are welcome at:https://github.com/artnames/AIEF
 
 Why this exists now
 
