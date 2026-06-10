@@ -844,3 +844,4 @@ v0.2.5 — 2026-02-27
 • Section 14: Fixed risk-tier table logic (Tier C target) and added workflow-level tier note + examples.
 • Section 15: Added roles/responsibilities evidence item for audit readiness.
 
+© 2026 Artnames Ltd / NexArt, licensed for public comment
